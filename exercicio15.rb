@@ -10,5 +10,3 @@ horas_totais = dias_trabalhados * HORA_DIA
 salario = horas_totais * VALOR_HORA
 
 puts "Seu salário é R$#{salario}"
-
-
