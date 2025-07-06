@@ -18,12 +18,3 @@ end
 
 puts ("A quantidade de termos na sequência é #{contador_termos}")
 puts "O resultado da soma é #{soma}"
-
-puts "Larissa Andreia Ribeiro Larissa Andreia Ribeiro Larissa Andreia Ribeiro Larissa Andreia Ribeiro"
-puts "Larissa Andreia Ribeiro Larissa Andreia Ribeiro Larissa Andreia Ribeiro Larissa Andreia Ribeiro"
-puts "Larissa Andreia Ribeiro Larissa Andreia Ribeiro Larissa Andreia Ribeiro Larissa Andreia Ribeiro"
-puts "Larissa Andreia Ribeiro Larissa Andreia Ribeiro Larissa Andreia Ribeiro Larissa Andreia Ribeiro"
-puts "Larissa Andreia Ribeiro Larissa Andreia Ribeiro Larissa Andreia Ribeiro Larissa Andreia Ribeiro"
-puts "Larissa Andreia Ribeiro Larissa Andreia Ribeiro Larissa Andreia Ribeiro Larissa Andreia Ribeiro"
-puts "Larissa Andreia Ribeiro Larissa Andreia Ribeiro Larissa Andreia Ribeiro Larissa Andreia Ribeiro"
-puts "Larissa Andreia Ribeiro Larissa Andreia Ribeiro Larissa Andreia Ribeiro Larissa Andreia Ribeiro"
